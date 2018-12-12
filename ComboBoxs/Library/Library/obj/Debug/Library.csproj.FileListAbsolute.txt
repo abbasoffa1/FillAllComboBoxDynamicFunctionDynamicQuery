@@ -18,3 +18,13 @@ C:\Users\pc\Desktop\New folder\Library\Library\obj\Debug\Library.csproj.Generate
 C:\Users\pc\Desktop\New folder\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\New folder\Library\Library\obj\Debug\Library.exe
 C:\Users\pc\Desktop\New folder\Library\Library\obj\Debug\Library.pdb
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\bin\Debug\Library.exe.config
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\bin\Debug\Library.exe
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\bin\Debug\Library.pdb
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\obj\Debug\Library.exe
+C:\Users\pc\Desktop\New folder (2)\ComboBoxs\Library\Library\obj\Debug\Library.pdb
